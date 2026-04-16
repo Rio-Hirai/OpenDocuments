@@ -58,4 +58,4 @@
 
 - 組織名: アイフル株式会社
 - 担当窓口: 平井李音
-- 連絡先: rion.gurosu@gmail.com
+- 連絡先: hirai@iplab.cs.tsukuba.ac.jp
