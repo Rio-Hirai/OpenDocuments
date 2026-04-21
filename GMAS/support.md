@@ -50,9 +50,8 @@ Google Meet の会議ページ（`https://meet.google.com/xxx-xxxx-xxx`）を開
 
 ## 問い合わせ先
 
-- 組織名: アイフル株式会社
-- 担当窓口: 平井李音
-- 連絡先: rion.gurosu@gmail.com
+- 担当者: 平井李音
+- 連絡先: hirai [at] iplab.cs.tsukuba.ac.jp
 
 ## 関連情報
 
